@@ -18,3 +18,20 @@ So far, the best to deliver answers to my questions was:
 
 https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-nunit
 
+## How to Setup VSCode
+- Download and install VSCode - https://code.visualstudio.com
+- Download and install DotNet 6.0 SDK - https://dotnet.microsoft.com/en-us/download
+- In VSCode, install C# extension (["C# for Visual Studio Code (powered by OmniSharp)"](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp&ssr=false#review-details))
+
+## How to Build / Test
+- From the Git working tree root:
+```
+dotnet build
+dotnet test
+```
+
+
+
+
+
+
