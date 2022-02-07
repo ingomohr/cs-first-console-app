@@ -1,4 +1,4 @@
-![example workflow](https://github.com/ingomohr/cs-first-console-app/actions/workflows/dotnet.yml/badge.svg)
+![example branch parameter](https://github.com/ingomohr/cs-first-console-app/actions/workflows/dotnet.yml/badge.svg?branch=master)
 
 This is just a small repo to get my hands warm w/ C#.
 
