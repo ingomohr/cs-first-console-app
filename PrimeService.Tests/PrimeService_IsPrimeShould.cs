@@ -42,7 +42,7 @@ namespace Prime.UnitTests.Services
         [TestCase(-42, false)]
         [TestCase(0, false)]
         [TestCase(1, false)]
-        [TestCase(2, false)]
+        [TestCase(2, true)]
         [TestCase(3, true)]
         [TestCase(4, false)]
         [TestCase(5, true)]
