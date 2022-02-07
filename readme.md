@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/ingomohr/s-first-console-app.svg?branch=master)](https://travis-ci.com/ingomohr/s-first-console-app)
+![example workflow](https://github.com/ingomohr/cs-first-console-app/actions/workflows/dotnet.yml/badge.svg)
 
 This is just a small repo to get my hands warm w/ C#.
 
